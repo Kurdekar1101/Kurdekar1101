@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there👋 I'm Pratik!
+💻 Intern @ Coding Ninjas | Passionate developer exploring Frontend & Backend technologies.
 
-<!--
-**Kurdekar1101/Kurdekar1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently working with: **HTML, CSS, BootStrap, JavaScript, Java, SpringBoot, MySQL**.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Frontend: HTML, CSS, JavaScript, BootStrap.
+- Backend: Java, Spring Boot.
+- Database: MySQL.
+- Tools: Eclipse, VS Code, Visual Studio Code, IntelliJ IDEA.
+- Version Control: Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me  
+- GitHub: [@Kurdekar1101](https://github.com/Kurdekar1101)  
+- LinkedIn: [www.linkedin.com/in/dktepratikkurdekar]
