@@ -12,4 +12,4 @@
 
 ## 📫 Connect with me  
 - GitHub: [@Kurdekar1101](https://github.com/Kurdekar1101)  
-- LinkedIn: [www.linkedin.com/in/dktepratikkurdekar]
+- LinkedIn: www.linkedin.com/in/dktepratikkurdekar
