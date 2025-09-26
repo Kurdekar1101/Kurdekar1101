@@ -7,7 +7,7 @@
 - Frontend: HTML, CSS, JavaScript, BootStrap.
 - Backend: Java, Spring Boot.
 - Database: MySQL.
-- Tools: Eclipse, VS Code, Visual Studio Code, IntelliJ IDEA.
+- Tools: Eclipse, VS Code, Visual Studio Code, IntelliJ IDEA, Postman, MySQL Workbench.
 - Version Control: Git.
 
 ## 📫 Connect with me  
