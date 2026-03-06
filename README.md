@@ -1,10 +1,10 @@
 ## Hi there👋 I'm Pratik!
-💻 Intern @ Coding Ninjas | Passionate developer exploring Frontend & Backend technologies.
+💻 Frontend Developer @ AsteriaSoft Studio | 💻 Intern @ Coding Ninjas | Passionate developer exploring Frontend & Backend technologies.
 
-🌱 Currently working with: **HTML, CSS, BootStrap, JavaScript, Java, SpringBoot, MySQL**.
+🌱 Currently working with: **HTML5, CSS3, BootStrap, JavaScript, ReactJS, Java, SpringBoot, MySQL**.
 
 ## 🔧 Technologies & Tools
-- Frontend: HTML, CSS, JavaScript, BootStrap.
+- Frontend: HTML, CSS, JavaScript, BootStrap, ReactJS.
 - Backend: Java, Spring Boot.
 - Database: MySQL.
 - Tools: Eclipse, VS Code, Visual Studio Code, IntelliJ IDEA, Postman, MySQL Workbench, STS.
