@@ -1,5 +1,5 @@
 ## Hi there👋 I'm Pratik!
-💻 Frontend Developer @ AsteriaSoft Studio | 💻 Intern @ Coding Ninjas | Passionate developer exploring Frontend & Backend technologies.
+💻 Frontend Developer @ AsteriaSoft Studio | 💻 Java Fullstack Developer Intern @ Coding Ninjas | Passionate developer exploring Frontend & Backend technologies.
 
 🌱 Currently working with: **HTML5, CSS3, BootStrap, JavaScript, ReactJS, Java, SpringBoot, MySQL**.
 
